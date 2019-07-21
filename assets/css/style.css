@@ -100,10 +100,11 @@ ul#nav {
             height: auto;
             max-width: 100%;
             margin:0 auto;
+          }
           
-
-          
-
+.goalText {
+  text-align: center;
+}
 
 /* Mobile styles go first, without media queries. */
 
